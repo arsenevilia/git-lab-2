@@ -1,2 +1,2 @@
-Назва: Git Lab Project (ІПЗ)
+Назва: Git Lab Project (Арсеньєв)
 Група: З-41
